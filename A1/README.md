@@ -103,9 +103,6 @@ Trabalha com a estrutura de dados **lista**, que armazena múltiplos valores.
 - Conceitos básicos: [Python 3 Tutorial](https://docs.python.org/3/tutorial/)
 
 ## Notas Importantes
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
 ⚠️ **Todos os programas**:
 - Armazenam dados apenas na memória (não persistem após execução)
 - Assumem entradas válidas do usuário
